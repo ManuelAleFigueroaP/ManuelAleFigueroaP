@@ -52,7 +52,7 @@ Me interesa trabajar en proyectos relacionados con:
 - ETL
 - BigQuery
 - Google Cloud Platform (GCP)
-- Power BI
+- Power BI, Looker
 - Data modeling / Modelado de datos
 - KPI analysis / Análisis de KPI
 
@@ -70,8 +70,6 @@ Me interesa trabajar en proyectos relacionados con:
 
 ## 🧠 Featured Projects | Proyectos destacados
 
-> Replace these links with your real repositories (recommended).  
-> Reemplaza estos links con tus repositorios reales (recomendado).
 
 ### 1) 🏥 Medical / Healthcare System (SPA) *(Practice / mockup / prototype)*
 **EN:** SPA-oriented healthcare management system concept focused on patient records and professional workflows.  
